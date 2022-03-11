@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saranyababuds
+- 👋 Hi, I’m Saranya Babu
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning with Python and Visualization with Tableau
 
